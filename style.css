@@ -34,7 +34,8 @@
     font-weight: 600;
     line-height: 30px;
     letter-spacing: 0%;
-     text-align: center; 
+    text-align: center; 
+    margin-bottom: 13px;
 }
 
 .hero-head{
@@ -45,6 +46,7 @@
     line-height: 64px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 19px;
 }
 
 .hero-para2{
@@ -56,6 +58,7 @@
     line-height: 22px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 25px;
 }
 .hero-btn-center{
     margin-top: 10px;
@@ -69,8 +72,7 @@
     line-height: 18px;
     letter-spacing: 0%;
     text-align: center;
-
-    gap: 10; 
+    border: none;
     padding: 17px 25px 17px 25px;
     border-radius: 8px;
     background: rgb(82, 195, 3);
