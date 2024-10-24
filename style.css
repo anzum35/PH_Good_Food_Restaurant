@@ -77,7 +77,94 @@
     border-radius: 8px;
     background: rgb(82, 195, 3);
     
+    
 }
 .hero-button:hover{
     cursor: pointer;
+}
+
+.title-para{
+    opacity: 0.6;
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.title-head{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.container{
+    padding: 133px 240px 147px 240px;
+}
+.card{
+    width: 339px;
+    height: 520px;
+    /* background-color: burlywood;  */
+}
+.title{
+    margin-bottom: 38px;
+}
+.card-image{
+    height: 226px;
+    margin-bottom: 25px;
+}
+.burg-box{
+    
+    height: 45px;
+    text-align: center;
+}
+.card-span{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 19px;
+    padding: 14px 32px 14px 32px;
+    border-radius: 8px;
+
+    background: rgba(82, 195, 3, 0.15);
+}
+
+.card-head{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 19px;
+    text-align: center;
+}
+.card-para{
+    opacity: 0.7;
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0%;
+    margin-bottom:51px;
+    text-align: center;
+}
+.card-btn{
+    text-align: center;
+}
+
+.three-cards{
+    display: flex;
+    justify-content: space-between;
 }
